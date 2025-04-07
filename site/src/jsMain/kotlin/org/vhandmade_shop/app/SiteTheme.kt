@@ -56,3 +56,7 @@ fun initTheme(ctx: InitSilkContext) {
     ctx.theme.palettes.dark.background = Color.rgb(0x06080B)
     ctx.theme.palettes.dark.color = Colors.White
 }
+
+class SiteTheme {
+
+}
